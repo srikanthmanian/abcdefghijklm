@@ -15,5 +15,8 @@ Application.$controller("MainPageController", ['$scope', function ($scope) {
          * e.g. $scope.Widgets.byId(), $scope.Widgets.byName()or access widgets by $scope.Widgets.widgetName
          */
     };
+    
+    /*Hello there. This is a comment in the Main.js file*/
+    $scope.page = "Main";
 
 }]);
