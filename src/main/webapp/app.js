@@ -7,4 +7,7 @@ Application.run(function ($rootScope) {
          * e.g. $rootScope.Variables.staticVariable1.getData()
          */
     };
+    
+    /*this is a comment in the app.js file*/
+    $rootScope.page = "App";
 });
